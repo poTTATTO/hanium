@@ -1,2 +1,2 @@
 # hanium
-expand project
+expand project hanium
